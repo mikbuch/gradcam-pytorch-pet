@@ -12,7 +12,6 @@ I used a PET image from [this article](https://www.oatext.com/pet-myocardial-per
 this example. Additionally, I made some changes to the README for better
 readability.
 
-<br>
 <p align="center">
 <img src=assets/readme.png>
 </p>
